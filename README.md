@@ -18,6 +18,7 @@ Gem-puzzle: https://github.com/maximzmei/Gem-puzzle-public
 
 English-for-kids: https://github.com/maximzmei/English-for-kids-public
 
-## one of the last works
+## two of the last works
 
 Covid-dashboard:  https://github.com/maximzmei/covid-dashboard-public
+Social Network: https://github.com/dmitrydutin/rsclone/pull/26
